@@ -3,6 +3,7 @@ import Producto from './components/Producto'
 import imgBase from './components/base.jpg'
 import imgPestamina from './components/pestañina.jpg' 
 import imgRubor from './components/rubor.png'
+import imglabial from './components/labial.avif'
 import imgSombras from './components/sombras.jpg'
 
 
@@ -21,7 +22,7 @@ const productos = [
     descripcion: 'Color intenso de larga duración.',
     precio: '18.000',
     categoria: 'Maquillaje',
-    imagen: imgBonita
+    imagen: imglabial
   },
   {
     id: 3,
