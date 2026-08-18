@@ -1,6 +1,7 @@
 .catalogo-container {
   padding: 30px 20px;
   text-align: center;
+  background-color: rgb(37, 37, 62);
 }
 
 .catalogo-grid {
@@ -12,13 +13,13 @@
 }
 
 .producto {
-  border: 1px solid #333;
+  border: 1px solid #a998e6;
   border-radius: 12px;
   padding: 16px;
   width: 220px;
   background-color: #1e1e1e;
   text-align: left;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 4px 10px rgba(227, 54, 54, 0.3);
   display: flex;
   flex-direction: column;
   justify-content: space-between;
