@@ -3,7 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
 import heroImg from './assets/hero.png'
 import './App.css'
-import Producto from './components/Producto'
+
 function App() {
   const [count, setCount] = useState(0)
 
@@ -115,8 +115,12 @@ function App() {
 
       <div className="ticks"></div>
       <section id="spacer"></section>
+      <div className="ticks"></div>
+      <section id="spacer"></section>
+      <Producto />
     </>
   )
 }
 
 export default App
+    
