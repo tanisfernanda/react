@@ -1,7 +1,6 @@
 import './App.css'
 import Producto from './components/Producto'
 import imgBase from './components/base.jpg'
-import imgBonita from './components/bonita-imagen.jpg'
 import imgPestamina from './components/pestañina.jpg' 
 import imgRubor from './components/rubor.png'
 import imgSombras from './components/sombras.jpg'
